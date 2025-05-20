@@ -1,5 +1,35 @@
 # PolygenicRiskScoresGPT
 
+Prompt
+
+Task: Create a comprehensive table (in Markdown format) of polygenic risk score (PRS) tools.
+
+For each tool, include the following columns (links only):
+Tool Name – Name of the PRS tool.
+
+Tool PDF Document – Link to a PDF user manual or guide. Leave blank if not available.
+
+GitHub Link – Link to the GitHub repository (if available).
+
+R Package Link – Link to the R package (if available).
+
+Python Package Link – Link to the Python package (if available).
+
+Published Article – Link to the main published article.
+
+DOI Link – Direct DOI link to the publication.
+
+Website Link – Official website of the tool (if available).
+
+Instructions:
+Provide the response in Markdown table format.
+
+Include only links in each table cell (no extra text or annotations).
+
+Leave any cell empty if the corresponding link is not available.
+
+
+
 # Polygenic Risk Score (PRS) Tools
 
 | Tool | Tool Information | PDF Manual | Python | R Package | Website | Language | Article | GitHub Readme |
