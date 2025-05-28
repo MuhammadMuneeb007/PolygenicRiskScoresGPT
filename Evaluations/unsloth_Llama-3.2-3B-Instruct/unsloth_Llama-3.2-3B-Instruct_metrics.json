@@ -1,0 +1,23 @@
+{
+  "exact_match": 0.0,
+  "levenshtein_similarity": 0.20699310730011958,
+  "jaccard_similarity": 0.18336076262550288,
+  "tfidf_cosine_similarity": 0.3791699636572786,
+  "rouge1": 0.22654502711067998,
+  "rouge2": 0.06844640445678056,
+  "rougeL": 0.2097249160087791,
+  "bleu1": 0.2065963797892204,
+  "bleu4": 0.05165787715198923,
+  "bleu_codenn": 0.037298554514941906,
+  "code_keyword_match": 0.17037037037037037,
+  "codebert_similarity": 0.9783866727352142,
+  "hybrid_text_code_score": 0.24145112357734852,
+  "meteor": 0.22926259186112344,
+  "spacy_similarity": 0.9333621348441009,
+  "sbert_similarity": 0.7055053478851915,
+  "wmd_similarity": 0.5564208986873426,
+  "entailment_score": 0.5036373686045408,
+  "bertscore_precision": 0.8429273962974548,
+  "bertscore_recall": 0.8298593163490295,
+  "bertscore_f1": 0.8359006643295288
+}

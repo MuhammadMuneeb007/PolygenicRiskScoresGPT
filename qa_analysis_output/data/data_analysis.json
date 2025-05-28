@@ -1,0 +1,118 @@
+{
+  "data_stats": {
+    "total_pairs": 23278,
+    "avg_question_length": 19.01091159034281,
+    "avg_explanation_length": 242.00240570495748,
+    "max_question_length": 64,
+    "max_explanation_length": 1943,
+    "min_question_length": 4,
+    "min_explanation_length": 35,
+    "median_question_length": 18.0,
+    "median_explanation_length": 144.0,
+    "percentile_90_question_length": 26.0,
+    "percentile_90_explanation_length": 563.0,
+    "total_question_tokens": 442536,
+    "total_explanation_tokens": 5633332
+  },
+  "code_stats": {
+    "questions_with_code": 17118,
+    "explanations_with_code": 23208,
+    "questions_with_code_percent": 73.5372454678237,
+    "explanations_with_code_percent": 99.69928688031618
+  },
+  "complexity": {
+    "linguistic_complexity_score": 12.323082399005097,
+    "diversity_score": 0.8223674893379211,
+    "perplexity": 453.217732408274,
+    "coherence": null,
+    "assessment": "High",
+    "confidence_interval": [
+      0.8204928871244193,
+      0.8241071451455355
+    ]
+  },
+  "entity_analysis": {
+    "common_entities": {
+      "PolyPred": 1122,
+      "LDAK": 1116,
+      "SNP": 997,
+      "Plink": 753,
+      "SBayesRC": 737,
+      "LD": 699,
+      "PRSbils": 431,
+      "Pleio-Pred": 429,
+      "SMR": 383,
+      "PRScs": 360,
+      "Samtools": 293,
+      "PRScsx": 265,
+      "NPS": 254,
+      "Luna": 240,
+      "MTG2": 204,
+      "BOLT-LMM": 185,
+      "two": 183,
+      "BESD": 158,
+      "Hail": 148,
+      "Anno-Pred": 147
+    },
+    "domain_keywords": {
+      "file": 4279,
+      "datum": 2249,
+      "analysis": 1687,
+      "output": 1646,
+      "parameter": 1571,
+      "function": 1485,
+      "purpose": 1396,
+      "grid": 1339,
+      "specific": 1298,
+      "viprs": 1256,
+      "format": 1254,
+      "command": 1235,
+      "gibbs": 1170,
+      "snp": 1152,
+      "handle": 1149,
+      "summary": 1122,
+      "value": 1121,
+      "provide": 1031,
+      "statistic": 970,
+      "specify": 932,
+      "base": 931,
+      "model": 883,
+      "input": 881,
+      "perform": 837,
+      "information": 819,
+      "sample": 747,
+      "generate": 674,
+      "calculate": 669,
+      "genotype": 668,
+      "type": 666
+    }
+  },
+  "topic_modeling": {
+    "Topic_1": {
+      "does": 5234.621914719144,
+      "ldpred": 2296.7447826491593,
+      "polypred": 1737.4355566570534,
+      "gibbs": 1632.6668903837985,
+      "purpose": 1375.8710287581675,
+      "grid": 1340.3882764338246,
+      "viprs": 1321.291930217313,
+      "function": 1283.4433127598986,
+      "used": 1148.0390209056652,
+      "parameter": 1047.1868001220373
+    },
+    "Topic_2": {
+      "plink": 3124.574885812037,
+      "file": 2854.3575748915873,
+      "using": 2273.4540974972183,
+      "data": 2166.4795127070743,
+      "ldak": 1594.3574278369222,
+      "analysis": 1511.091538508871,
+      "files": 1446.1460377180144,
+      "output": 1292.8913340055672,
+      "pred": 1166.2024937736967,
+      "summary": 1141.7823641958641
+    }
+  },
+  "total_training_tokens_estimate": 6075868,
+  "analysis_timestamp": "2025-05-27T22:24:42.574160"
+}
