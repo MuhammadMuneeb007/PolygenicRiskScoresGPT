@@ -1,5 +1,9 @@
 # A Pipeline to Fine-Tune Large Language Models for Bioinformatics Tools: Use Case—Polygenic Risk Score Tools
 
+## Dataset
+
+https://huggingface.co/datasets/muhammadmuneeb007/PolygenicRiskScoresGPTDataset
+
 ## Table of Contents
 
 - [Problem Statement](#problem-statement)
